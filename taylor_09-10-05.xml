@@ -7,58 +7,58 @@
     <stamp type="Library of Congress" color="red"/>
     <poem><line>Booker T.</line>
         <repetition num="1"><line>Was a practical man.</line>
-            <line>He said, Till the soil</line>
-            <line>And learn from the land.</line>
-            <line>Let down your bucket</line>
-            <line>Where you are.</line>
-            <line>Your fate is here </line>
-            <line>And not afar.</line>
-            <line>To help yourself </line>
-            <line>And your fellow man,</line>
-            <line>Train your head,</line>
-            <line>Your heart, <underlined>and your hand.</underlined></line></repetition>
-        <line>For smartness alone's </line>
-        <line>Surely not meet—</line>
-        <line>If you haven't at the same time</line>
-        <line>Got something to eat.</line>
-        <line>Thus at <placeName type="region">Tuskegee</placeName></line>
-        <line>He built a school</line>
-        <line>With book-learning there</line>
-        <line>And the workman's tool.</line>
-        <line>He started out</line>
-        <line>In a simple way—</line>
-        <line>For yesterday</line>
-        <line>Was <underlined>not</underlined> today.</line>
-        <line>Sometimes he had</line>
-        <line>Compromise in his talk—</line>
-        <line>For a man must crawl</line>
-        <line>Before he can walk—</line>
-        <line>And in <placeName type="state">Alabama</placeName> in <date when="1885"
+            <line num="1">He said, Till the soil</line>
+            <line num="2">And learn from the land.</line>
+            <line num="3">Let down your bucket</line>
+            <line num="4">Where you are.</line>
+            <line num="5">Your fate is here </line>
+            <line num="6">And not afar.</line>
+            <line num="7">To help yourself </line>
+            <line num="8">And your fellow man,</line>
+            <line num="9">Train your head,</line>
+            <line num="10">Your heart, <underlined>and your hand.</underlined></line></repetition>
+        <line num="11">For smartness alone's </line>
+        <line num="12">Surely not meet—</line>
+        <line num="13">If you haven't at the same time</line>
+        <line num="14">Got something to eat.</line>
+        <line num="15">Thus at <placeName type="region">Tuskegee</placeName></line>
+        <line num="16">He built a school</line>
+        <line num="17">With book-learning there</line>
+        <line num="18">And the workman's tool.</line>
+        <line num="19">He started out</line>
+        <line num="20">In a simple way—</line>
+        <line num="21">For yesterday</line>
+        <line num="22">Was <underlined>not</underlined> today.</line>
+        <line num="23">Sometimes he had</line>
+        <line num="24">Compromise in his talk—</line>
+        <line num="25">For a man must crawl</line>
+        <line num="26">Before he can walk—</line>
+        <line num="27">And in <placeName type="state">Alabama</placeName> in <date when="1885"
             >'85</date></line>
-        <line>A joker was lucky</line>
-        <line>To be alive.</line>
-        <line>But <person>Booker T.</person></line>
-        <line>Was nobody's fool:</line>
-        <line>You may carve a dream</line>
-        <line>With an humble tool.</line>
-        <line>The tallest tower</line>
-        <line>Can tumble down</line>
-        <line>If it be not rooted</line>
-        <line>In solid ground.</line>
-        <line>So, being a far-seeing</line>
+        <line num="28">A joker was lucky</line>
+        <line num="29">To be alive.</line>
+        <line num="30">But <person>Booker T.</person></line>
+        <line num="31">Was nobody's fool:</line>
+        <line num="32">You may carve a dream</line>
+        <line num="33">With an humble tool.</line>
+        <line num="34">The tallest tower</line>
+        <line num="35">Can tumble down</line>
+        <line num="36">If it be not rooted</line>
+        <line num="37">In solid ground.</line>
+        <line num="38">So, being a far-seeing</line>
         <repetition num="1">
-            <line>Practical man,</line>
-            <line>He said, Train your head,</line>
-            <line>Your heart, <underlined>and your hand.</underlined></line>
-            <line>Your fate is here</line>
-            <line>And not afar,</line>
-            <line>So let down your bucket</line>
-            <line>Where you are.</line></repetition></poem>
+            <line num="39">Practical man,</line>
+            <line num="40">He said, Train your head,</line>
+            <line num="41">Your heart, <underlined>and your hand.</underlined></line>
+            <line num="42">Your fate is here</line>
+            <line num="43">And not afar,</line>
+            <line num="44">So let down your bucket</line>
+            <line num="45">Where you are.</line></repetition></poem>
     <signature signed="yes">LANGSTON HUGHES</signature>
     <edition>Final Draft</edition>, <placeName type="farm">Hollow Hills Farm</placeName>, <placeName
         type="state">California</placeName>, <date when="1941-06-01">June 1, 1941.</date>
     <citation>Citation: Drafts of <author>Langston Hughes</author>'s poem "<title>Ballad of Booker
-            T.</title>," <date when="1941-05-30 - 1941-06-">30 May–1 June 1941</date>. (Langston
-        Hughes Collection) Manuscript Division, Library of Congress, <placeName
+            T.</title>," <date when="1941-05-30 - 1941-06-">30 May–1 June 1941</date>. <collection type="Langston Hughes">(Langston
+        Hughes Collection) Manuscript Division</collection>, <organization type="government">Library of Congress</organization>, <placeName
             type="capitalOfAmerica">Washington, D.C</placeName>.</citation>
 </transcript>
