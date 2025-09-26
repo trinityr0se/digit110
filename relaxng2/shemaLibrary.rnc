@@ -1,0 +1,55 @@
+# shemaNight.rnc — Relax NG Compact schema for the updated recipe XML
+default namespace = ""
+
+namespace xsd = "http://www.w3.org/2001/XMLSchema"
+
+start = recipe
+
+recipe = element recipe { title, intro, OriginalRecipe, newRecipe, results }
+
+title = element title { text }
+
+# INTRO: allow mixed content with these child elements in any order/quantity
+intro = element intro { mixed { (manuscript | location | timePeriod | person | book | date)* } }
+manuscript = element manuscript { text }
+location   = element location   { text }
+timePeriod = element timePeriod { text }
+person     = element person     { attribute job { text }, text }
+book       = element book       { text }
+# @when optional to match updated XML (plain text date content also allowed)
+date       = element date       { attribute when { xsd:date | xsd:gYearMonth | xsd:gYear }? , text }
+
+# Accept either correct or common misspelling for the original recipe section
+OriginalRecipe =
+    element originalRecipe { step+ }
+  | element orginalRecipe  { step+ }
+
+# Inline pieces that can appear inside steps
+appliance   = element appliance   { text }
+temperature = element temperature { attribute type { "fahrenheit" | "celsius" }, text }
+time        = element time        { text }
+
+# Ingredients (used both inline inside steps and as top-level items in <newRecipe>)
+ingredient = element ingredient {
+  attribute num { xsd:integer },
+  attribute variation { text }?,
+  text
+}
+
+# Steps allow mixed content with inline elements
+step = element step {
+  attribute num { xsd:integer },
+  attribute optional { "yes" | "no" }?,
+  mixed { (ingredient | appliance | temperature | time)* }
+}
+
+# Instructions block contains 1+ steps and may end with a note
+instructions = element instructions { step+ , note? }
+note         = element note { text }
+
+# New recipe lists ingredients first, then instructions
+newRecipe = element newRecipe { ingredient+ , instructions }
+
+# Results allows text around exactly one explanation element
+explanation = element explanation { text }
+results     = element results { mixed { explanation } }
