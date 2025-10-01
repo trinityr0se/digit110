@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="realaxxxx/homeworkShema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <info>
+        <title>ingydar</title>
+        <person type="artist">Adrianne Lenker</person>
+        <label>Producers </label>
+        <producer>
+            <person type="producer">Phil Weinrobe</person>
+         
+            <person type="producer">Adrianne Lenker</person>
+        </producer>
+        <location>Track 2 on <album>songs</album></location>
+        <date when="2020-10-23">Oct. 23, 2020</date>
+        <views>
+            <num n="115,100">115.1K</num>
+            <unit>views</unit>
+        </views>
+    </info>
+
+    <lyrics>
+        <verse n="1">
+            <line>Fragilely, gradually and surrounding</line>
+            <line>The horse lies naked in the shed</line>
+            <line>Evergreen anodyne decompounding</line>
+            <line>Flies draw sugar from his head</line>
+        </verse>
+
+
+        <preChorus>
+            <line>His eyes are blueberries, video screens, Minneapolis schemes</line>
+            <line>And the dried flowers from books half-read</line>
+            <line>The juice of dark cherries cover his chin</line>
+            <line>The dog walks in and the crow lies in his jaw like lead</line>
+        </preChorus>
+
+        <chorus>
+            <line>Everything eats and is eaten Time is fed</line>
+        </chorus>
+
+        <verse n="2">
+            <line>Early еvening, the pink ring swallows</line>
+            <line>The sphеrical marigold terrain</line>
+            <line>Sleepily, Venus sinks and hollows</line>
+            <line>The stationed headlight of a plane</line>
+        </verse>
+        <!--[Pre-Chorus]-->
+        <preChorus>
+            <line>You are as far from me as memory</line>
+            <line>With fixtures fracture varyingly</line>
+            <line>The juice of dark cherries cover my skin</line>
+            <line>Six years in, no baby</line>
+        </preChorus>
+
+
+
+
+        <chorus>
+            <line>Everything eats and is eaten</line>
+        </chorus>
+
+
+        <verse n="3">
+            <line>Ingydar bares a scar like a meteor</line>
+            <line>Crystalline amber guilds her cheek</line>
+            <line>Tambourine of the beech leaves lead her</line>
+            <line>To the raven playing hide and seek</line>
+        </verse>
+
+
+        <preChorus>
+            <line>Drying blueberries, figurines</line>
+            <line>And the angel leans at the head of the bed</line>
+            <line>The juice of dark cherries cover her chin</line>
+            <line>The dog walks in and the crow lies in his smile like lead</line>
+        </preChorus>
+
+
+        <chorus>
+            <line>Everything eats and is eaten, time is fed</line>
+            <line>Everything eats and is eaten</line>
+            <line>Everything eats and is eaten</line>
+            <line>Everything eats and is eaten</line>
+            <line>Everything eats and is eaten</line>
+            <line>Everything eats and is eaten</line>
+        </chorus>
+    </lyrics>
+
+    <about><label>About</label> For <company>GQ</company>, <person type="artist">Lenker</person>
+        said: Ingydar was the name of my great-aunt Becky’s horse, who passed away when I was a kid.
+        But the song itself, I have to say, it isn’t really about that horse. That was just a
+        fragment from the pool of ideas, or colors that I wove into the song, but yeah. “Everything
+        eats and is eaten / Time is fed.” Have you ever used a vacuum cleaner, and there’s a button
+        that sucks the cord back in? I imagine life being like the cord, and just being sucked back
+        into the mouth of time, or that time is built up of experience in life. I suppose this is a
+        pretty common thing to think about and philosophize about, but just looking at it as
+        nonlinear, and as like a big orb or sphere, or maybe shapeless, but not with a before and an
+        after and like a linear trajectory, but actually cyclical. Everything is constantly being
+        born and decaying simultaneously. We’re both growing and becoming, and also unbecoming and
+        decaying simultaneously. It’s like there’s this inherent duality within everything. I was
+        going through a transition in a relationship at the time that was so painful and still is,
+        but that feeling of our relationship just being eaten, or the idea of like, whatever state
+        we’re in now, me and this person that were in this relationship, it’s our relationship, and
+        all the journey and processing we had to go through was the sacrifice for our new state of
+        being. And it was eaten by time.</about>
+</root>
