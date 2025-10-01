@@ -1,0 +1,28 @@
+start = root
+root = element root { info, lyrics, about }
+info = element info { title, person, label, producer, location, date, views }
+title = element title { text }
+person = element person { type, text }
+type = attribute type { text }
+label = element label { text }
+producer = element producer { person+ }
+amp = element amp { text }
+location = element location { text, album }
+album = element album { text }
+date = element date { when, text }
+when = attribute when { xsd:date }
+views = element views { num, unit }
+num = element num { n, text }
+n = attribute n { text }
+unit = element unit { text }
+lyrics = element lyrics { (verse | preChorus | chorus)+ }
+verse =
+    element verse {
+        attribute n { xsd:integer },
+        line+
+    }
+preChorus = element preChorus { line+ }
+chorus = element chorus { line+ }
+line = element line { text }
+about = element about { label | text | company | person }
+company = element company { text }
