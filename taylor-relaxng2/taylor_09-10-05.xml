@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="coffeeshopshema.rnc" type="application/relax-ng-compact-syntax"?>
+<transcript>
+    <metadata>Transcript Education and Outreach Division <title name="Ballad of Booker T.">"Ballad
+            of Booker T.</title>," by <author>Langston Hughes</author>, <date when="1941-06-01">June
+            1, 1941</date>
+        <title name="Ballad of Booker T.">BALLAD OF BOOKER T.</title> by <author>Langston
+            Hughes</author></metadata>
+    <stamp type="Library of Congress" color="red"/>
+    <poem>
+        <line>Booker T.</line>
+        <rep num="1">
+            <line>Was a practical man.</line>
+            <line>He said, Till the soil</line>
+            <line>And learn from the land.</line>
+            <line>Let down your bucket</line>
+            <line>Where you are.</line>
+            <line>Your fate is here </line>
+            <line>And not afar.</line>
+            <line>To help yourself </line>
+            <line>And your fellow man,</line>
+            <line>Train your head,</line>
+            <line>Your heart, <underlined>and your hand.</underlined></line>
+        </rep>
+        <line>For smartness alone's </line>
+        <line>Surely not meet—</line>
+        <line>If you haven't at the same time</line>
+        <line>Got something to eat.</line>
+        <line>Thus at <placeName type="region">Tuskegee</placeName></line>
+        <line>He built a school</line>
+        <line>With book-learning there</line>
+        <line>And the workman's tool.</line>
+        <line>He started out</line>
+        <line>In a simple way—</line>
+        <line>For yesterday</line>
+        <line>Was <underlined>not</underlined> today.</line>
+        <line>Sometimes he had</line>
+        <line>Compromise in his talk—</line>
+        <line>For a man must crawl</line>
+        <line>Before he can walk—</line>
+        <line>And in <placeName type="state">Alabama</placeName> in <date when="1885"
+            >'85</date></line>
+        <line>A joker was lucky</line>
+        <line>To be alive.</line>
+        <line>But <person>Booker T.</person></line>
+        <line>Was nobody's fool:</line>
+        <line>You may carve a dream</line>
+        <line>With an humble tool.</line>
+        <line>The tallest tower</line>
+        <line>Can tumble down</line>
+        <line>If it be not rooted</line>
+        <line>In solid ground.</line>
+        <line>So, being a far-seeing</line>
+        <rep num="1">
+            <line>Practical man,</line>
+            <line>He said, Train your head,</line>
+            <line>Your heart, <underlined>and your hand.</underlined></line>
+            <line>Your fate is here</line>
+            <line>And not afar,</line>
+            <line>So let down your bucket</line>
+            <line>Where you are.</line>
+        </rep>
+    </poem>
+    <signature signed="yes">LANGSTON HUGHES</signature>
+    <info>
+        <edition>Final Draft</edition>, <placeName type="farm">Hollow Hills Farm</placeName>,
+            <placeName type="state">California</placeName>, <date when="1941-06-01">June 1,
+            1941.</date>
+        <citation>Citation: Drafts of <author>Langston Hughes</author>'s poem "<title name="Ballad of Booker T.">Ballad of
+                Booker T.</title>," <date when="1941-05-30 - 1941-06-">30 May–1 June 1941</date>.
+            (Langston Hughes Collection) Manuscript Division, Library of Congress, <placeName
+                type="capitalOfAmerica">Washington, D.C</placeName>.</citation></info>
+</transcript>
