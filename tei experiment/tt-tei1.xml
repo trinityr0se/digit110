@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mary Berhend Friendship Calender</title>
+
+         </titleStmt>
+         <publicationStmt>
+            <p>Copyright 1908 by Friendship Calendar Co., New Britain, Conn.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Friendship Calendar</p>
+
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="calanderPage" n="1">
+            <head>
+               <date when="1909-03-11">March 11, 1909</date>
+            </head>
+            <p>Everybody dressed in their best, For this is an Erie Tea- They eat too much, talk too
+               much- You can bet they ain't safe in me. </p>
+            <note> Maybe one of Mary's days to Sun!</note>
+            <!--how to encode this so it mentions the text is red -->
+            <figure>
+               <figDesc> Four women in long formal dresses (lavender, vermillion, deep blue, sage)
+               </figDesc>
+            </figure>
+         </div>
+
+         <div type="calanderPage" n="2">
+            <head>
+               <date when="1909-03-12">March 12, 1909</date>
+            </head>
+            <p>Molly on snowshoes that Mr.Weir got. Pretty picture is it not ?!</p>
+            <note>Love from Molly.</note>
+            <figure>
+               <figDesc> A woman in a long winter coat with a bonnet walking on snow shoes.
+               </figDesc>
+            </figure>
+         </div>
+      </body>
+
+   </text>
+
+
+
+</TEI>
